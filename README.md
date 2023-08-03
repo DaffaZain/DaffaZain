@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{nrdlarast}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="nrdlarast" />
 
 ## About me
 
