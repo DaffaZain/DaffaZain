@@ -8,9 +8,9 @@
 
 ## About me
 
-Hi there! im Daffa Andika Zain I am an student majoring in information systems at Universitas Pembangunan Nasional Veteran Jakarta who has an interest in fields related to Data, Business, Information System, and Design. Have good communication skills, can work with a team, have high curiosity, detail-oriented, and highly motivated to learn new skills to be able to develop my abilities and potential. I also had experience working with several projects and have completed them with great marks.
+Hi there! im Daffa Andika Zain I am an student majoring in information systems at Universitas Pembangunan Nasional Veteran Jakarta who has an interest in fields related to Data, Business, Information System, and Design. Have good communication skills, can work with a team, have high curiosity, detail-oriented, and highly motivated to learn new skills to be able to develop my abilities and potential. I also had experience working with several projects and have completed them with great marks. if you haven't seen it yet come check it my repository.
 
-I’m currently learning about Data Field which is Data Science and Creating Front-end Website using HTML, CSS, JS
+I’m currently learning about Data Field which is Data Science and Creating Front-end Website using HTML, CSS, JS and Figma for designing and mockup
 
 ## Skills:
 
