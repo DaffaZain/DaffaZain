@@ -47,7 +47,7 @@ I’m currently learning about Data Field which is Data Science and Creating Fro
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-## Connect with me:
+## please don't hesitate to reach out. Thank you!
 
 <p align = "center">
 
